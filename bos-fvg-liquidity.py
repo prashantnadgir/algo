@@ -1,19 +1,16 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
 ║       Nifty 50 — SMC Demand Zone Scanner (Daily Runner)      ║
-║  Scans all 50 Nifty stocks for weekly SMC buying zones       ║
-║  Logic mirrors LuxAlgo Smart Money Concepts blue band        ║
+║  Scans customised Nifty stocks for weekly SMC buying zones       ║
+║  FVG built after Logic mirrors LuxAlgo Smart Money Concepts blue band        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  INSTALL (one time):                                         ║
 ║    pip install yfinance pandas numpy colorama tabulate       ║
 ║                                                              ║
 ║  RUN DAILY:                                                  ║
-║    python nifty50_smc_scanner.py                             ║
+║    python bos-fvg-liquidity.py                             ║
 ║                                                              ║
-║  OPTIONAL — auto-run every morning on Windows:               ║
-║    Task Scheduler → run at 9:30 AM on weekdays               ║
-║  OPTIONAL — auto-run on Mac/Linux:                           ║
-║    crontab: 30 9 * * 1-5 python /path/to/this/script.py      ║
+║    ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
