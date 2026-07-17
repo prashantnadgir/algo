@@ -16,3 +16,15 @@
 │  Greedy             Quick Profit Taking           O(n) ✅         │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
+
+Technique         	  Best Use Case	               When to AVOID
+Two Pointer	      Simple trends, patterns	         Complex optimization
+Sliding Window	  Moving averages, pivots	         Finding optimal points
+Hash Maps	        Frequency, duplicates	           Ordering/ranking
+Binary Search	    Finding specific values	         Pattern detection
+Recursion	        Exploring all possibilities	     Large datasets
+DP	              Optimization problems	           Very large datasets
+Heap	            Priority/order operations	       Simple lookups
+Graph	            Relationships, networks	         Single stocks
+Sorting	          Ranking, top k	                 Real-time updates
+Greedy	          Quick decisions	                 Optimal solutions
