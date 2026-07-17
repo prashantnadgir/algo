@@ -1,0 +1,18 @@
+┌────────────────────────────────────────────────────────────────────┐
+│                    DSA TECHNIQUES IN TRADING                        │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  TECHNIQUE          BEST FOR                       COMPLEXITY     │
+│  ─────────────────────────────────────────────────────────────────│
+│  Two Pointer        Trend Detection, Patterns      O(n) ✅        │
+│  Sliding Window     Moving Averages, Pivots        O(n) ✅        │
+│  Hash Maps          Pattern Frequency, Volume      O(n) ✅        │
+│  Binary Search      Find Support/Resistance        O(log n) ✅    │
+│  Recursion/DFS      Fibonacci, Complex Patterns    O(2^n) ⚠️      │
+│  Dynamic Program     Optimal Entry/Exit            O(n²) ⚠️       │
+│  Trees/Heaps        Order Book, Priority          O(log n) ✅     │
+│  Graphs             Correlation Networks          O(V+E) ⚠️       │
+│  Sorting            Volume Analysis               O(n log n) ✅   │
+│  Greedy             Quick Profit Taking           O(n) ✅         │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
