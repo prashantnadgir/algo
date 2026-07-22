@@ -1,0 +1,4 @@
+
+| Function | Primary DSA / Pattern |
+|----------|----------------------|
+| `find_pivot_lows` | Fixed-size sliding window minimum check | 
